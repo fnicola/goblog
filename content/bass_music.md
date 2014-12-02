@@ -1,0 +1,3 @@
+Bass (/ˈbeɪs/ bayss) describes musical instruments that produce tones in the low-pitched range. They belong to different families of instruments and can cover a wide range of musical roles. Since producing low pitches usually requires a long air column or string, the string and wind bass instruments are usually the largest instruments in their families or instrument classes.
+
+As seen in the musical instrument classification article, categorizing instruments can be difficult. For example, some instruments fall into more than one category. The cello is considered a tenor instrument in some orchestral settings, but in a string quartet it is the bass instrument.

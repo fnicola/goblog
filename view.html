@@ -1,0 +1,29 @@
+<h1>Blog</h1>
+<script>
+var list = {{.}}
+var table = document.getElementById("table")
+for (i=list.length; i --;) {
+   var div = document.createElement('div');
+   // div.href = "/view/"+list[i].Title
+   div.innerHTML = '<p><h3>'+list[i].Title+'</h3>';
+  
+   var div1 = document.createElement('div');
+   // div.href = "/view/"+list[i].Title
+   div1.innerHTML = list[i].Body+'<br><br><b>published on</b>: '+list[i].Time;
+   
+
+   var div2 = document.createElement('div');
+   //div.href = "/view/"+list[i].Title
+   div2.innerHTML = "<a href='/view/"+list[i].Tag+"'>"+list[i].Tag+"</a><hr>"
+   document.body.appendChild(div);
+
+   document.body.appendChild(div1);
+
+   document.body.appendChild(div2);
+
+
+} 
+
+</script>
+
+
